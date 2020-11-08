@@ -1,4 +1,4 @@
-export interface photoI {
+export interface PhotoI {
   _id?: string;
   title: string;
   description: string;
